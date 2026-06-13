@@ -8,7 +8,6 @@ A clean, modular, from-scratch PyTorch implementation of the original Transforme
 >
 > 📄 [arXiv:1706.03762](https://arxiv.org/abs/1706.03762)
 
-Built as a learning exercise for the **Amazon Machine Learning Summer School (MLSS)**.
 
 ---
 
