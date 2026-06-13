@@ -1,0 +1,17 @@
+# Environments
+.env
+venv/
+env/
+__pycache__/
+*.pyc
+
+# IDEs
+.vscode/
+.idea/
+.ipynb_checkpoints/
+
+# Model Weights and Data
+*.pt
+*.pth
+*.dat
+data/
